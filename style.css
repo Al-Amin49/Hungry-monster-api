@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.menuArea{ 
+    padding-right: 100px;
+    color:black;
+}
+a.nav-link{ 
+    color:black;
+    font-weight: bold;
+}
+
